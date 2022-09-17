@@ -16,7 +16,7 @@ public class OddNumbers {
                 count++;
                 System.out.print(i + " ");
             }
-                   }
+        }
         System.out.println("\nOdd number between " + lv + " and " + hv + " is :" + count);
     }
 }
